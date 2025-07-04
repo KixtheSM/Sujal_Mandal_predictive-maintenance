@@ -53,7 +53,7 @@ A machine learning system to predict equipment failures using sensor data, achie
   - All notebooks  
   - Trained models (`*.pkl`)  
   - Final report  
-- [Submission Checklist](checklist.md)  
+
 
 ---
 
@@ -61,14 +61,10 @@ A machine learning system to predict equipment failures using sensor data, achie
 - Python 3.9  
 - Libraries:  
   - `scikit-learn`, `XGBoost`, `pandas`, `matplotlib`  
-- Dataset: [NASA Turbofan Degradation Data](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/)  
+- Dataset: https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
+ 
 
----
-
-## 📄 Final Deliverables  
-1. [Final Report](final_report.md)  
-2. [Trained Model](best_rf_model.pkl)  
-3. [Complete Code](Week1-Week8_Notebooks.zip)  
+--- 
 
 ---
 
